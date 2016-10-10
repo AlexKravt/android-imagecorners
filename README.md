@@ -1,6 +1,6 @@
 # androidprojects
 ## OvalImage 
- Снипет для округления углов у овального квадрата.
+ Снипет для создания изображения округлённой формы в android приложении.
 Если нужно сделать не обычную иконку или аватарку пользователя то этот пример отлично поможет Вам решить эту задачу.
 
 ![alt avatar](https://github.com/AlexKravt/androidprojects/blob/master/avatar_photo.png) 
